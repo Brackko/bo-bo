@@ -1,1 +1,1 @@
-# bo-bo
+# bo-bo project
